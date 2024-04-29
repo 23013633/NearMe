@@ -1,4 +1,4 @@
-![Screenshot 2024-04-29 085633](https://github.com/23013633/NearMe/assets/150005961/7363ee4a-932d-42e8-a111-97daf4b252b9)# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 29.04.24
 
 ## AIM
