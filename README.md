@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![Screenshot 2024-04-29 085633](https://github.com/23013633/NearMe/assets/150005961/7363ee4a-932d-42e8-a111-97daf4b252b9)# Ex04 Places Around Me
 ## Date: 29.04.24
 
 ## AIM
@@ -197,14 +197,15 @@ significance continue to inspire awe and reverence, making it a cherished landma
 ```
 
 ## OUTPUT
+![Screenshot 2024-04-29 085515](https://github.com/23013633/NearMe/assets/150005961/fb399a95-a651-4dc7-8d97-6f5e99e1e236)
 
+![Screenshot 2024-04-29 085633](https://github.com/23013633/NearMe/assets/150005961/415b6aba-6d45-4484-853f-d15949357e36)
 
-![Uploading Screenshot 2024-04-29 085515.png…]()
-![Uploading Screenshot 2024-04-29 085633.png…]()
-![Uploading Screenshot 2024-04-29 085725.png…]()
-![Uploading Screenshot 2024-04-29 085826.png…]()
-![Uploading Screenshot 2024-04-29 085928.png…]()
-![Uploading Screenshot 2024-04-29 090017.png…]()
+![Screenshot 2024-04-29 085725](https://github.com/23013633/NearMe/assets/150005961/049ba26d-ce96-49c7-9873-e9a5f31a1deb)
+
+![Screenshot 2024-04-29 085826](https://github.com/23013633/NearMe/assets/150005961/f1525c06-a184-4971-9fd2-d56ef8ace5fb)
+![Screenshot 2024-04-29 085928](https://github.com/23013633/NearMe/assets/150005961/8ca51a5b-7a2f-4000-84ee-f4fbedb6d2bc)
+![Screenshot 2024-04-29 090017](https://github.com/23013633/NearMe/assets/150005961/e7827894-93de-4103-a46d-34c777330580)
 
 
 
